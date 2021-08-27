@@ -8,4 +8,4 @@ app.get('/', (request, response)=>{
   return response.json({message: 'First Application on AWS'})
 });
 
-app.listen(80);
+app.listen(3000);
