@@ -1,11 +1,11 @@
 {
-  "name": "y",
-  "version": "y",
-  "description": "y",
-  "main": "y",
-  "repository": "y",
-  "author": "y",
-  "license": "y",
+  "name": "project",
+  "version": "1.0.0",
+  "description": "aaaa",
+  "main": "aa",
+  "repository": "application-test",
+  "author": "Test",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "express": "^4.17.1"
